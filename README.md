@@ -6,3 +6,8 @@ Supported Hardware
 * ADALM-PLUTO
 * ADALM-2000
 
+Release History
+* v0.5
+  * Fix package installer on Windows 32-bit
+
+
