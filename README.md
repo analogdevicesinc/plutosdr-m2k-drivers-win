@@ -12,5 +12,7 @@ Release History
 * v0.6 (No need to update from v0.5)
   * Add reference to M2k onto the wizard pages (no functional changes)
   * Force DPInst to install the driver even if the driver that is currently installed is a better match than the new driver
+* v0.7
+  * Removed language nodes from dpinst.xml, this should fix this Error: "The current language is not supported by the Device Driver Installation Wizard)"
 
 
