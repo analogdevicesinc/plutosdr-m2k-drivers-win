@@ -2,6 +2,8 @@
 
 Windows USB drivers for PlutoSDR & M2k
 
+Latest Release : [![GitHub release](https://img.shields.io/github/release/analogdevicesinc/plutosdr-m2k-drivers-win.svg)](https://github.com/analogdevicesinc/plutosdr-m2k-drivers-win/releases/latest)
+
 Supported Hardware
 * ADALM-PLUTO
 * ADALM-2000
