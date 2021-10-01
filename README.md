@@ -7,6 +7,7 @@ Latest Release : [![GitHub release](https://img.shields.io/github/release/analog
 Supported Hardware
 * ADALM-PLUTO
 * ADALM-2000
+* Generic IIO/Serial Console device using VID_0456&PID_B671
 
 Release History
 * v0.5
@@ -16,5 +17,6 @@ Release History
   * Force DPInst to install the driver even if the driver that is currently installed is a better match than the new driver
 * v0.7
   * Removed language nodes from dpinst.xml, this should fix this Error: "The current language is not supported by the Device Driver Installation Wizard)"
-
+* v0.8
+  * New device support
 
