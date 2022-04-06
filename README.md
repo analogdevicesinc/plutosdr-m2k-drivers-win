@@ -19,4 +19,5 @@ Release History
   * Removed language nodes from dpinst.xml, this should fix this Error: "The current language is not supported by the Device Driver Installation Wizard)"
 * v0.8
   * New device support
-
+* v0.9
+  * Support for Windows 8.1 (no need to update in case you're not using Windows 8.1)
